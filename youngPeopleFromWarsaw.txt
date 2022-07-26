@@ -1,0 +1,4 @@
+Robert;30;Warsaw
+Janusz;40;Warsaw
+Jan;30;Warsaw
+Weronika;20;Warsaw
